@@ -1135,7 +1135,7 @@ a {
   margin-right: 0.6rem;
   margin-bottom: 1rem;
   padding: 0.5rem;
-  border: 2px solid #6592e6;
+  border: 2px solid #a14e24;
   transition: all 0.3s;
 }
 .cid-sRuxvly8tY .social-row .soc-item .mbr-iconfont {
@@ -1143,11 +1143,11 @@ a {
   display: flex;
   justify-content: center;
   align-content: center;
-  color: #6592e6;
+  color: #a14e24;
   font-size: 1.5rem;
 }
 .cid-sRuxvly8tY .social-row .soc-item:hover {
-  background-color: #6592e6;
+  background-color: #a14e24;
 }
 .cid-sRuxvly8tY .social-row .soc-item:hover .mbr-iconfont {
   color: #ffffff;
