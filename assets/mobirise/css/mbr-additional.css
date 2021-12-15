@@ -740,8 +740,8 @@ a {
   text-align: center;
 }
 .cid-sRwfgWbGBU {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
   background-color: #ffffff;
 }
 .cid-sRwfgWbGBU .mbr-text {
@@ -775,7 +775,7 @@ a {
 .cid-sRc9oaIJSz {
   padding-top: 3rem;
   padding-bottom: 2rem;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-sRc9oaIJSz .item {
   padding-bottom: 2rem;
@@ -1094,7 +1094,7 @@ a {
 .cid-sRuxvly8tY {
   padding-top: 2rem;
   padding-bottom: 0rem;
-  background: #fafafa;
+  background: #efefef;
 }
 .cid-sRuxvly8tY .team-card {
   margin-bottom: 2rem;
@@ -1104,7 +1104,7 @@ a {
   transform: translateY(-10px);
 }
 .cid-sRuxvly8tY .card-wrap {
-  background: #ffffff;
+  background: #fafafa;
   border-radius: 4px;
 }
 @media (max-width: 991px) {
